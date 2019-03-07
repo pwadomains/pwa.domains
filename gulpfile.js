@@ -160,8 +160,6 @@ gulp.task('build', [
 ]);
 
 gulp.task('default', [
-	'pack',
 	'build',
-	'copy',
 	'server'
 ]);
