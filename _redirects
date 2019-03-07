@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://dazzling-meninsky-5393d3.netlify.com/* http://pwa.domains/:splat 301!
